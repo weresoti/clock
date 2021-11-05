@@ -144,10 +144,10 @@ html {
   transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1); }
 
 .hand-hour {
-  top: 59%;
-  -webkit-transform-origin: 129%;
-  -ms-transform-origin: 129%;
-  transform-origin: 129%;
+  top: 54%;
+  -webkit-transform-origin: 123%;
+  -ms-transform-origin: 123%;
+  transform-origin: 123%;
   width: 35%;
   -webkit-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
